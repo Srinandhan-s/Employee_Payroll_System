@@ -23,8 +23,3 @@ This Payroll System is a Java-based application that uses JDBC to connect to a M
 - MySQL Server installed
 - JDBC Driver for MySQL
 
-### Steps to Run the Application
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/payroll-system.git
-   cd payroll-system
